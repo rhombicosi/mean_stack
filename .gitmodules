@@ -1,3 +1,6 @@
 [submodule "mean-frontend"]
 	path = mean-frontend
 	url = https://github.com/rhombicosi/mean-frontend.git
+[submodule "mean-backend"]
+	path = mean-backend
+	url = https://github.com/rhombicosi/mean-backend.git
